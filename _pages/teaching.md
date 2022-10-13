@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have TA'd in the past
 nav: true
 nav_order: 5
 ---
+---
+### University of Washington
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### *"[Computer Vision: Classical and Deep Methods](https://peden.ece.uw.edu/pmp/wp-content/uploads/sites/2/2022/04/AUT-21-Computer-Vision-Classical-and-Deep-Methods-Birchfield.pdf)"* (EE P 596)
+- Prof. Stan Birchfield, Autumn '21
 
-Organize your courses by years, topics, or universities, however you like!
+##### *"[Signal Processing](http://www.washington.edu/students/crscat/ee.html#ee215)"* (EE 242)
+- Prof. Tai Chen, Spring '22
+
+- Prof. Akshay Gadre, Autumn '22
+
+##### *"[Fundamentals of Electrical Engineering](https://www.washington.edu/students/crscat/ee.html#ee242)"* (EE 215)
+- Prof. Karl Bohringer, Winter '22
