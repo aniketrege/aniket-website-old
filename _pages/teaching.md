@@ -19,3 +19,8 @@ nav_order: 5
 
 ##### *"[Fundamentals of Electrical Engineering](https://www.washington.edu/students/crscat/ee.html#ee242)"* (EE 215)
 - Prof. Karl Bohringer, Winter '22
+
+Responsibilities Included:
+- Leading weekly lab and theoretical discussion sessions
+- Grading homework, examinations, and final projects
+- Providing my own solution sets for code and theory problems

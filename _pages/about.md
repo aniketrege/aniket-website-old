@@ -22,6 +22,6 @@ I'm currently an MS EE student at the University of Washington, Seattle. I prima
 
 I recently completed a summer research internship in deep learning for autonomous vehicles at NVIDIA Redmond, supervised by Dr. [Nikolai Smolyanskiy](https://scholar.google.com/citations?user=KxfefwgAAAAJ&hl=en). Previously, I worked for several years as a research engineer at Samsung Research India, working on perception problems for the AI Camera, including as a founding member of the [Single Take Camera](https://www.techradar.com/how-to/how-to-use-single-take-mode-on-samsung-phones) project, the USP of the Galaxy S20 flagship smartphone.
 
-I am currently pursuing research in large-scale visual representation learning, and web-scale image retrieval with additional interests in learning from minimal supervison, such as self-supervised or zero-shot learning.
+I am currently pursuing research in large-scale visual representation learning and web-scale image retrieval, with additional interests in learning from minimal supervison, and model robustness to real-world distribution shifts.
 
 Reach me via aniketr[at]uw[dot]edu
